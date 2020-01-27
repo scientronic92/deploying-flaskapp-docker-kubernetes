@@ -18,7 +18,7 @@ The project goal is to operationalize this working, machine learning microservic
 * Uploaded a complete Github repo with CircleCI to indicate that the code has been tested
 
 ## CLI steps
-## Setup the Environment
+### Setup the Environment
 
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
