@@ -9,15 +9,15 @@ I am given a pre-trained, `sklearn` model that has been trained to predict housi
 ### Project Tasks
 
 The project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. In this project you will:
-* Test the project code using linting
-* Complete Dockerfile to containerize this application
-* Deploy your containerized application using Docker and make a prediction
+* Testing the project code using linting
+* Completing the Dockerfile to containerize this application
+* Deploying the containerized application using Docker and make a prediction
 * Improved log statements in the source code for this application
-* Configured Kubernetes and create a Kubernetes cluster
-* Deploy a container using Kubernetes and make a prediction
+* Configuring Kubernetes to create a Kubernetes cluster
+* Deploying a container using Kubernetes and make a prediction
 * Uploaded a complete Github repo with CircleCI to indicate that the code has been tested
 
-
+## CLI steps
 ## Setup the Environment
 
 * Create a virtualenv and activate it
