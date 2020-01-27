@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+<[![CircleCI](https://circleci.com/gh/scientronic92/deplying-flaskapp-docker-kubernetes.svg?style=svg)](https://circleci.com/gh/scientronic92/deplying-flaskapp-docker-kubernetes)>
 
 ## Project Overview
 
